@@ -20,3 +20,5 @@ The architectures that I am using in this project include:
 - Dio to call API.
 - Bloc to display user interface information from API.
 
+![anh1](https://user-images.githubusercontent.com/100333528/155465698-012e4920-b326-4791-95df-a6eddc60accf.PNG)
+![anh2](https://user-images.githubusercontent.com/100333528/155465704-84104bfa-968a-49e7-9fc4-c73df96ae6af.PNG)
